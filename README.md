@@ -136,3 +136,4 @@ This project is part of the ACE-STEP ecosystem. See the LICENSE file for details
 - [Genius API](https://genius.com/api-clients)
 - [Mixxx Documentation](https://mixxx.org/manual/)
 - [uv Documentation](https://docs.astral.sh/uv/)
+- Thanks to mmoalem for further improving the code and adding mixxx to the mix!
