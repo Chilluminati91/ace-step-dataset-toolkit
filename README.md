@@ -1,6 +1,6 @@
 # ACE-STEP Dataset Toolkit
 
-A comprehensive toolkit for preparing audio datasets for the ACE-STEP music generation model. This toolkit automates the process of audio captioning, lyric downloading, and dataset configuration.
+A comprehensive CLI toolkit for preparing audio datasets for the ACE-STEP music generation model. This toolkit automates the process of audio captioning, lyric downloading, and dataset configuration.
 
 ## Features
 
